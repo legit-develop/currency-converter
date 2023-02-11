@@ -1,0 +1,9 @@
+body {
+  background: url("./media/pexels-david-mcbee-730564.jpg");
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: "Sono", sans-serif;
+}
