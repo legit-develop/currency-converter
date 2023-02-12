@@ -15,3 +15,9 @@ body {
   padding: 10px;
   border-radius: 10px;
 }
+
+.currency-container {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
